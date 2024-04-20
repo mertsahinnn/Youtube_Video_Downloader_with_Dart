@@ -1,16 +1,19 @@
-# video_downloader
+# YOUTUBE VIDEO DOWNLOADER
 
-A new Flutter project.
+This application enables users to download videos from YouTube. Users can select the video they want to download by pasting the YouTube video link or sharing it from the share menu. The application offers the video in different formats (MP4, MP3) and, during the download process, it displays the percentage of completion and sends a notification to the user when the download is complete. The application is developed using Flutter and works on the Android platform.
 
-## Getting Started
+Features:
 
-This project is a starting point for a Flutter application.
+- Download videos from YouTube
+- Download videos in MP4 and MP3 formats
+- Different resolution options
+- Display download progress percentage
+- Send notification when download is complete
 
-A few resources to get you started if this is your first Flutter project:
+  This project demonstrates an example use of an application developed with Flutter. Interested developers can access the application's source code and adapt the application to their own projects.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
