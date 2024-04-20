@@ -2,6 +2,8 @@
 
 This application enables users to download videos from YouTube. Users can select the video they want to download by pasting the YouTube video link or sharing it from the share menu. The application offers the video in different formats (MP4, MP3) and, during the download process, it displays the percentage of completion and sends a notification to the user when the download is complete. The application is developed using Flutter and works on the Android platform.
 
+You can download apk file in [there](https://github.com/mertsahinnn/Youtube_Video_Downloader_with_Dart/releases/tag/app)
+
 Features:
 
 - Download videos from YouTube
