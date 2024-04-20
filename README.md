@@ -9,6 +9,7 @@ Features:
 - Different resolution options
 - Display download progress percentage
 - Send notification when download is complete
+- Save video and audio files to the "Downloads" section
 
   This project demonstrates an example use of an application developed with Flutter. Interested developers can access the application's source code and adapt the application to their own projects.
 
